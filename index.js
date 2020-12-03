@@ -8,11 +8,11 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾AR15BOT👾'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_sadboy.ig'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6285722553839'; // JANGAN UBAH-UBAH INFO!!!
-const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '👑PDCW BOT👑'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/dafs_114'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+62895330844765'; // JANGAN UBAH-UBAH INFO!!!
+const aktif = 'JAM 08-12 {ISTIRAHAT} JAM 14-17'; // JANGAN UBAH-UBAH INFO!!!
+'; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
